@@ -1,9 +1,13 @@
 # pages-password
 Password-protected GitHub pages
 
+```bash
+password123
+```
+
 ## Make hash directory
 
-```
+```bash
 $ node mkdir.js yourpassword
 "docs/e3c652f0ba0b4801205814f8b6bc49672c4c74e25b497770bb89b22cdeb4e951" is created.
 ```
